@@ -5,7 +5,7 @@
     <h3>Work Experience</h3>
   <div class="bg-white shadow-md p-8 rounded-lg mb-8">
     <div v-for="(job, index) in workExperience" :key="index" class="job mb-4">
-      <h4 class="text-lg font-semibold mb-2">{{ job.position }} at {{ job.company }}</h4>
+      <h4 class="text-lg font-semibold mb-2 text-orange-500">{{ job.position }} at {{ job.company }}</h4>
       <p class="text-sm text-gray-600 mb-4">{{ job.period }} <span class="mx-2">|</span> {{ job.location }}</p>
       <ul>
         <li class="list-disc list-inside" v-for="(duty, i) in job.duties" :key="i">{{ duty }}</li>

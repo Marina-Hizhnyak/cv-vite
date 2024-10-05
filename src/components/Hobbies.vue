@@ -1,7 +1,7 @@
 
 <template>
     <!--hobbies section-->
-  <div class="mb-10">
+  <div class="my-10">
       <h3 class="sidebar-title">Hobbies</h3>
       <ul class="hobbies-list">
           <li v-for="(hobby, index) in hobbies" :key="index" class="p-1">

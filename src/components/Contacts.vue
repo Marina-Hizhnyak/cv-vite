@@ -5,7 +5,7 @@
 
 <template>
 <!--contacts section-->
-            <div class="mb-10">
+            <div class="mb-10 md:flex md:flex-col md:justify-center md:h-full">
                 <h3 class="sidebar-title">Contacts</h3>
                 <div class="p-1">
                     <i class="ri-phone-line icon"></i>
