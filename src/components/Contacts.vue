@@ -9,7 +9,7 @@
                 <h3 class="sidebar-title">Contacts</h3>
                 <div class="p-1">
                     <i class="ri-phone-line icon"></i>
-                    <a class="pl-2" href="tel:+32 473 36 81 10"> +32 473 36 81 10</a>
+                    <a class="pl-2" href="tel:+32 XXX XX XX XX"> +32 XXX XX XX XX</a>
                 </div>
                 <div class="p-1">
                     <i class="ri-mail-line icon"></i>
