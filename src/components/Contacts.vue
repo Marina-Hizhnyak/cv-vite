@@ -23,7 +23,7 @@
                 </div>
                 <div class="p-1">
                     <i class="ri-pages-line icon"></i>
-                    <a class="pl-2" href="htpps//:portfolio.be"> htpps//:portfolio.be</a>
+                    <a class="pl-2" href="https://portfolio-ochre-zeta-99.vercel.app/"> htpps//:portfolio.be</a>
                 </div>
             </div>
 </template>
